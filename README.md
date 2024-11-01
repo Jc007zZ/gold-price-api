@@ -18,7 +18,7 @@ https://gold-price-api-production.up.railway.app/gold-price
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/tTrickqz/gold-price.git
+git clone git@github.com:Jc007zZ/gold-price-api.git
 ```
 2. **Navegue até o diretório do projeto:**
 ```bash
